@@ -1,0 +1,34 @@
+{
+  "name": "shopmerce",
+  "version": "1.0.0",
+  "description": "MERN-Stack E-commerce Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abdo-kotb/shopMerce.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "mern",
+    "fullstack"
+  ],
+  "contributors": [
+    {
+      "name": "Abdulrhman Kotb",
+      "email": "aabdamoh@gmail.com",
+      "url": "https://abdokotb.netlify.app/"
+    },
+    {
+      "name": "Sohad AlMadhoon",
+      "email": "sohadmadhoon20201@gmail.com"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdo-kotb/shopMerce/issues"
+  },
+  "homepage": "https://github.com/abdo-kotb/shopMerce#readme"
+}
